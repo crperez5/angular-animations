@@ -1,0 +1,12 @@
+.traffic-light {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.traffic-light-container {
+    background-color: black;
+    height: 300px;
+    width: 100px;
+    padding: 10px;
+}
